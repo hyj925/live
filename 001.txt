@@ -151,6 +151,7 @@ B周星驰喜剧,https://cn-zjhz-cu-live-02.bilivideo.com/live-bvc/188641/live_1
 
 
 ✯音乐频道✯,#genre#
+微微,https://cdn.jsdelivr.net/gh/hyj925/NEW/weiwei/playlist.m3u8
 勾指起誓,https://cdn.jsdelivr.net/gh//hyj925/NEW/gouzhiqishi/playlist.m3u8
 山楂树之恋,https://link.hhtjim.com/163/1381755293.mp3
 周杰伦-世界末日,https://link.hhtjim.com/qq/Z0090vXCLlq.mp4
